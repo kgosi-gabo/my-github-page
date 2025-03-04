@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background-color: #ff5733;  /* Colorful header background */
-    color: #fff;  /* White text color */
+    background-color: #ff5733;  /* green header background */
+    color: #fff;  /* red text color */
     padding: 20 px;
     text-align: center;
 }
@@ -29,7 +29,7 @@ nav {
 }
 
 nav a {
-    color: #fff;  /* White text color for links */
+    color: #fff;  /* black text color for links */
     text-decoration: none;  /* Removing underline */
     margin: 0 10 px;
 }
