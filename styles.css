@@ -22,7 +22,7 @@ body {
 
 header {
 
-  bacground-color: #CAF50;
+  bacground-color:red;
 
   color: green;
 
@@ -42,7 +42,7 @@ nav a {
 
    color:blue;
 
-   text-decoration: none;
+   text-decoration: yellow;
 
    margin: 0 10 px;
 
